@@ -27,8 +27,8 @@ divide_by_3         // returns in "result" 0 if is not dividable, 1 otherwise
 test(
     .number (num_test),
     .start_c   (start_c),
-    .last_div   (last_div),
-    .last_div_update(last_div_update),
+    .last_overflow  (last_div),
+    .last_overflow_update(last_div_update),
     .start_c_update(start_c_update),
     .result (result),
     .div (num_res)
@@ -40,8 +40,8 @@ divide_by_3         // returns in "result" 0 if is not dividable, 1 otherwise
 test_big1(
     .number (big_num_test[31:0]),
     .start_c   (start_c),
-    .last_div   (last_div),
-    .last_div_update(big_div_update1),
+    .last_overflow   (last_div),
+    .last_overflow_update(big_div_update1),
     .start_c_update(big_c_update1),
     .result (big_result_1),
     .div (big_num_res[31:0])
@@ -53,8 +53,8 @@ divide_by_3         // returns in "result" 0 if is not dividable, 1 otherwise
 test_big2(
     .number (big_num_test[63:32]),
     .start_c   (big_c_update1),
-    .last_div   (big_div_update1),
-    .last_div_update(big_div_update2),
+    .last_overflow   (big_div_update1),
+    .last_overflow_update(big_div_update2),
     .start_c_update(big_c_update2),
     .result (big_result_2),
     .div (big_num_res[63:32])
