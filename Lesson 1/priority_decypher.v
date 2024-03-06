@@ -4,7 +4,7 @@ module priority_decypher(
     output [2:0] result
 );  
 
-    wire [2:0] a[7:0], b [3:0], c[1:0];
+    /*wire [2:0] a[7:0], b [3:0], c[1:0];
 
     assign a[0] = (N[0] == 1)? 0 : 0; // 1
     assign a[1] = (N[1] == 1)? 1 : 0; // 2
@@ -21,7 +21,22 @@ module priority_decypher(
     assign c[0] = b[1] == 0 ? b[0] : b[1];
     assign c[1] = b[3] == 0 ? b[2] : b[3];
 
-    assign result = c[1] == 0 ? c[0] : c[1];
+    assign result = c[1] == 0 ? c[0] : c[1];*/
+
+    wire Z[7:0];
+
+    assign Z[7] = N[7];
+    assign Z[6] = N[6] & ~N[7];
+    assign Z[5] = N[5] & ~N[6] & ~N[7];
+    assign Z[4] = N[4] & ~N[5] & ~N[6] & ~N[7];
+    assign Z[3] = N[3] & ~N[4] & ~N[5] & ~N[6] & ~N[7];
+    assign Z[2] = N[2] & ~N[3] & ~N[4] & ~N[5] & ~N[6] & ~N[7];
+    assign Z[1] = N[1] & ~N[2] & ~N[3] & ~N[4] & ~N[5] & ~N[6] & ~N[7];
+    assign Z[0] = N[0] & ~N[1] & ~N[2] & ~N[3] & ~N[4] & ~N[5] & ~N[6] & ~N[7];
+
+    assign result[0] = Z[7] | Z[5] | Z[3] | Z[1];
+    assign result[1] = Z[7] | Z[6] | Z[3] | Z[2];
+    assign result[2] = Z[7] | Z[6] | Z[5] | Z[4];
     
 
 endmodule
