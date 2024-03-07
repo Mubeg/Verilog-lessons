@@ -3,7 +3,7 @@ module decypher(
     input [2:0] N,
     output [7:0] result
 );
-    //assign result = 8'b1 << N;
+
     assign result[0] = ~N[0] & ~N[1] & ~N[2];
     assign result[1] = N[0] & ~N[1] & ~N[2];
     assign result[2] = ~N[0] & N[1] & ~N[2];
