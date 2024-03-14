@@ -12,8 +12,8 @@ always @(posedge clk ) begin
         {clk_div2, clk_div4, clk_div8} <= 3'h0;
     else begin
         clk_div2 <= ~clk_div2;
-        clk_div4 <= (clk_div2 & clk) ? ~clk_div4 : clk_div4;
-        clk_div8 <= (clk_div4 & clk_div2 & clk) ? ~clk_div8 : clk_div8;
+        clk_div4 <= clk_div2 ? ~clk_div4 : clk_div4;
+        clk_div8 <= clk_div4 & clk_div2 ? ~clk_div8 : clk_div8;
     end
 end
 
