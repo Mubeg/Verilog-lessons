@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Apr 11 12:44:01 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : summator
+Top-level Entity Name : summator
+Family : Cyclone IV E
+Total logic elements : 71
+    Total combinational functions : 71
+    Dedicated logic registers : 27
+Total registers : 27
+Total pins : 62
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

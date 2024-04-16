@@ -1,0 +1,65 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "diod[0]",
+					"strict" : false
+				},
+				{
+					"name" : "diod[1]",
+					"strict" : false
+				},
+				{
+					"name" : "diod[2]",
+					"strict" : false
+				},
+				{
+					"name" : "diod[3]",
+					"strict" : false
+				},
+				{
+					"name" : "diod[4]",
+					"strict" : false
+				},
+				{
+					"name" : "diod[5]",
+					"strict" : false
+				},
+				{
+					"name" : "diod[6]",
+					"strict" : false
+				},
+				{
+					"name" : "diod[7]",
+					"strict" : false
+				},
+				{
+					"name" : "switch0",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "switch1",
+					"strict" : false
+				},
+				{
+					"name" : "w_button3",
+					"strict" : false
+				},
+				{
+					"name" : "w_button2",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Apr 11 16:42:55 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : perevod
+Top-level Entity Name : perevod
+Family : Cyclone IV E
+Total logic elements : 79
+    Total combinational functions : 79
+    Dedicated logic registers : 20
+Total registers : 20
+Total pins : 76
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

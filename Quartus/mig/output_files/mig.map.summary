@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Apr 11 13:11:39 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : mig
+Top-level Entity Name : mig
+Family : Cyclone IV E
+Total logic elements : 106
+    Total combinational functions : 106
+    Dedicated logic registers : 47
+Total registers : 47
+Total pins : 46
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

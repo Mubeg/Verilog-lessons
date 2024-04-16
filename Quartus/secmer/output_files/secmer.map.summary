@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Apr 11 18:47:08 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : secmer
+Top-level Entity Name : secmer
+Family : Cyclone IV E
+Total logic elements : 3,721
+    Total combinational functions : 1,509
+    Dedicated logic registers : 3,093
+Total registers : 3093
+Total pins : 54
+Total virtual pins : 0
+Total memory bits : 3,325,952
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

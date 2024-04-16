@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Apr  4 17:55:28 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : sdvig
+Top-level Entity Name : sdvig
+Family : Cyclone IV E
+Total logic elements : 15
+    Total combinational functions : 15
+    Dedicated logic registers : 12
+Total registers : 12
+Total pins : 14
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

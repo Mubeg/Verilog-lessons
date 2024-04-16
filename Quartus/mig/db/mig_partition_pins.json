@@ -1,0 +1,189 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ss1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ss1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ss1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ss1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ss1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ss1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ss1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ss4[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ss4[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ss4[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ss4[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ss4[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ss4[6]",
+					"strict" : false
+				},
+				{
+					"name" : "diod",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "switch[3]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "switch[2]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[1]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[0]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[7]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[6]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[5]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[4]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[11]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[10]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[9]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[8]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[12]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[13]",
+					"strict" : false
+				},
+				{
+					"name" : "w_button2",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

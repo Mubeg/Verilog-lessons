@@ -1,0 +1,257 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ss1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ss1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ss1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ss1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ss1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ss1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ss1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ss4[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ss4[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ss4[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ss4[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ss4[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ss4[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ss4[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ss5[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ss5[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ss5[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ss5[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ss5[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ss5[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ss5[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ss6[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ss6[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ss6[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ss6[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ss6[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ss6[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ss6[6]",
+					"strict" : false
+				},
+				{
+					"name" : "diod",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "switch1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "switch1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "switch1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "switch1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "switch1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "switch1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "switch1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "switch1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "switch2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "switch2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "switch2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "switch2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "switch2[7]",
+					"strict" : false
+				},
+				{
+					"name" : "switch2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "switch2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "switch2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "w_button2",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

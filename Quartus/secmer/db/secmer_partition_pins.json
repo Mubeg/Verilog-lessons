@@ -1,0 +1,241 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ss1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ss1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ss1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ss1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ss1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ss1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ss1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ss2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ss3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ss4[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ss4[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ss4[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ss4[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ss4[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ss4[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ss4[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ss5[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ss5[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ss5[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ss5[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ss5[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ss5[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ss5[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ss6[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ss6[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ss6[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ss6[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ss6[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ss6[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ss6[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ss7[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ss7[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ss7[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ss7[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ss7[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ss7[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ss7[6]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "w_button2",
+					"strict" : false
+				},
+				{
+					"name" : "w_button3",
+					"strict" : false
+				},
+				{
+					"name" : "w_button4",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tms",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tck",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdi",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

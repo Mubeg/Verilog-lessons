@@ -2,3 +2,5 @@ vsim
 vsim.wlf
 work
 transcript
+*.run
+quartus

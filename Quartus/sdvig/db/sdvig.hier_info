@@ -1,0 +1,39 @@
+|sdvig
+clk => memory[0].CLK
+clk => memory[1].CLK
+clk => memory[2].CLK
+clk => memory[3].CLK
+clk => memory[4].CLK
+clk => memory[5].CLK
+clk => memory[6].CLK
+clk => memory[7].CLK
+clk => _button3.CLK
+clk => __button3.CLK
+clk => _button2.CLK
+clk => __button2.CLK
+reset => __button2.OUTPUTSELECT
+reset => _button2.OUTPUTSELECT
+reset => __button3.OUTPUTSELECT
+reset => _button3.OUTPUTSELECT
+reset => memory.OUTPUTSELECT
+reset => memory.OUTPUTSELECT
+reset => memory.OUTPUTSELECT
+reset => memory.OUTPUTSELECT
+reset => memory.OUTPUTSELECT
+reset => memory.OUTPUTSELECT
+reset => memory.OUTPUTSELECT
+reset => memory.OUTPUTSELECT
+w_button2 => __button2.DATAB
+w_button3 => __button3.DATAB
+switch0 => memory.DATAB
+switch1 => memory.DATAB
+diod[0] << memory[0].DB_MAX_OUTPUT_PORT_TYPE
+diod[1] << memory[1].DB_MAX_OUTPUT_PORT_TYPE
+diod[2] << memory[2].DB_MAX_OUTPUT_PORT_TYPE
+diod[3] << memory[3].DB_MAX_OUTPUT_PORT_TYPE
+diod[4] << memory[4].DB_MAX_OUTPUT_PORT_TYPE
+diod[5] << memory[5].DB_MAX_OUTPUT_PORT_TYPE
+diod[6] << memory[6].DB_MAX_OUTPUT_PORT_TYPE
+diod[7] << memory[7].DB_MAX_OUTPUT_PORT_TYPE
+
+

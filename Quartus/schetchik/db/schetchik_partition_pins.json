@@ -1,0 +1,177 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "diod1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "diod1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "diod1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "diod1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "diod1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "diod1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "diod1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "diod1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "diod2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "diod2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "diod2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "diod2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "diod2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "diod2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "diod2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "diod2[7]",
+					"strict" : false
+				},
+				{
+					"name" : "seven_segment1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seven_segment1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seven_segment1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seven_segment1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seven_segment1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seven_segment1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seven_segment1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "seven_segment2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seven_segment2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seven_segment2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seven_segment2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seven_segment2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seven_segment2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seven_segment2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "switch[0]",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "switch[1]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[2]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[3]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[4]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[5]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[6]",
+					"strict" : false
+				},
+				{
+					"name" : "switch[7]",
+					"strict" : false
+				},
+				{
+					"name" : "w_button2",
+					"strict" : false
+				},
+				{
+					"name" : "w_button3",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
