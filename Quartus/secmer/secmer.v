@@ -104,10 +104,8 @@ end
 always @(posedge clk) begin
 
     clock_counter <= ~reset ? 0 : clock_counter >= 500000 ? 0 : clock_counter + 1;
-    clock_counter2 <= ~reset ? 0 : clock_counter >= 50000 ? 0 : clock_counter + 1;
     
     counter <= ~reset | (~active & button3) ? 0 : active ? clock_counter == 1 ? counter >= 99 ? 0 : counter + 1 : counter : counter;
-    counter2 <= ~reset | (~active & button3) ? 0 : active ? clock_counter2 == 1 ? counter2 >= 99 ? 0 : counter2 + 1 : counter2 : counter2;
 
 end
 
@@ -135,7 +133,7 @@ end
 
 always @(posedge clk) begin
 
-    mem[0] <= ~reset | (~active & button3) ? 0 : active ? counter == 99 ? mem[0][15:8] >= 99 ? 0 :
+    mem[0] <= ~reset | (~active & button3) ? 0 : active ? (counter == 99) & (clock_counter == 1) ? mem[0][15:8] >= 99 ? 0 :
                                                     {mem[0][15:8] + 1'b1, 8'b0} :
                                                     {mem[0][15:8], counter[7:0]} :
                                                     mem[0];

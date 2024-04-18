@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Apr 18 15:39:24 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : chasi
+Top-level Entity Name : chasi
+Family : Cyclone IV E
+Total logic elements : 378
+    Total combinational functions : 378
+    Dedicated logic registers : 92
+Total registers : 92
+Total pins : 54
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

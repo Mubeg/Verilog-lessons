@@ -4,7 +4,7 @@ JedecChain;
 	DefaultMfr(6E);
 
 	P ActionCode(Cfg)
-		Device PartName(EP4CE115F29) Path("/home/nikita/Ucheba/6 sem/MCST/Quartus/secmer/output_files/") File("secmer.sof") MfrSpec(OpMask(1));
+		Device PartName(EP4CE115F29) Path("/home/nikita/Ucheba/6 sem/MCST/Proga/Quartus/secmer/output_files/") File("secmer.sof") MfrSpec(OpMask(1));
 
 ChainEnd;
 
